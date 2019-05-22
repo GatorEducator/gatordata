@@ -1,4 +1,4 @@
-# gatorgradle-data-collection
+# gatordata
 Lambda Functions for Data Collection using GatorGradle
 
 ## Deployment
