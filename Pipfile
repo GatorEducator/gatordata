@@ -5,6 +5,7 @@ verify_ssl = true
 
 [dev-packages]
 awscli = "*"
+pyyaml = ">=4.2b1"
 
 [packages]
 
